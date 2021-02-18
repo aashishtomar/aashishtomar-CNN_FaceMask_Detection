@@ -1,0 +1,118 @@
+absl-py==0.11.0
+appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1606850115566/work
+argon2-cffi @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi_1605217032863/work
+astunparse==1.6.3
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall==0.2.0
+beautifulsoup4==4.9.3
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+bokeh==2.2.3
+brotlipy==0.7.0
+cached-property==1.5.2
+cachetools==4.2.0
+certifi==2020.6.20
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1606601132200/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1607673809261/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1607606152235/work
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+Flask==1.1.2
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.24.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio @ file:///Users/ashishtomar/tensorflow_macos/arm64/grpcio-1.33.2-cp38-cp38-macosx_11_0_arm64.whl
+h5py @ file:///Users/ashishtomar/tensorflow_macos/arm64/h5py-2.10.0-cp38-cp38-macosx_11_0_arm64.whl
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1607737231715/work/dist/ipykernel-5.4.2-py3-none-any.whl
+ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1605092210734/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous==1.1.0
+jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1609162525553/work
+Jinja2==2.11.2
+joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
+json5==0.9.5
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core @ file:///Users/runner/miniforge3/conda-bld/jupyter_core_1605735025673/work
+jupyterlab==2.2.6
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1604322635389/work
+livelossplot==0.5.3
+Markdown==3.3.3
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1602267372369/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1605180212073/work
+mistune @ file:///Users/runner/miniforge3/conda-bld/mistune_1605115664361/work
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///Users/runner/miniforge3/conda-bld/nbconvert_1605401845225/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
+notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1608772670097/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1609881217158/work
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
+pandas==1.2.0
+pandocfilters==1.4.2
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1609627915764/work
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.14.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+py4j @ file:///home/conda/feedstock_root/build_artifacts/py4j_1591810515261/work
+pyarrow==2.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+pyrsistent @ file:///Users/runner/miniforge3/conda-bld/pyrsistent_1605115597898/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1602326905471/work
+pyspark @ file:///home/conda/feedstock_root/build_artifacts/pyspark_1599499400847/work
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+PyYAML==5.3.1
+pyzmq==20.0.0
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+rsa==4.6
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1608656231701/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1609457863341/work
+seaborn==0.11.1
+selenium==3.141.0
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+six==1.15.0
+soupsieve==2.1
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+tensorflow-addons @ file:///Users/ashishtomar/tensorflow_macos/arm64/tensorflow_addons-0.11.2%2Bmlcompute-cp38-cp38-macosx_11_0_arm64.whl
+tensorflow-estimator==2.4.0
+tensorflow-macos @ file:///Users/ashishtomar/tensorflow_macos/arm64/tensorflow_macos-0.1a1-cp38-cp38-macosx_11_0_arm64.whl
+termcolor==1.1.0
+terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1609794204325/work
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1604171417256/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typeguard==2.10.0
+typing-extensions==3.7.4.3
+urllib3 @ file:///tmp/build/80754af9/urllib3_1606938623459/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
